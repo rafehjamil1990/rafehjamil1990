@@ -8,7 +8,8 @@
   </div>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer from Pakistan, specializing in Ruby on Rails development.
+
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan, specializing in Ruby on Rails development.
 
 - 💻 Currently, I'm working as a Ruby on Rails Developer, utilizing my expertise in Ruby to develop robust web applications.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
