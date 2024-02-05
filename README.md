@@ -40,6 +40,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafehjamil1990&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 😉: Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!---
 - 👋 Hi, I’m @rafehjamil1990
 - 👀 I’m interested in ruby on rails
