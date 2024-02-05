@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 - 💻 Currently, I'm working as a Ruby on Rails Developer, utilizing my expertise in Ruby to develop robust web applications.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafehjamil)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rafeh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafehjamil)
 
 ---
 
