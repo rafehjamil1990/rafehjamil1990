@@ -34,6 +34,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafehjamil1990&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 - 👋 Hi, I’m @rafehjamil1990
 - 👀 I’m interested in ruby on rails
